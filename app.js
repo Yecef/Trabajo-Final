@@ -5,7 +5,7 @@ import conexionMongo from "./src/config/baseDatos.js";
 
 
 const app = express();
-const puerto = 6000;
+const puerto = 9000;
 
 dotenv.config();
 
